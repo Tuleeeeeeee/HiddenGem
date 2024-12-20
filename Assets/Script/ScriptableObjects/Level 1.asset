@@ -1,0 +1,389 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db8fc1e4f4deb7e4bbe6add208081ad8, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Table
+      Entry: 7
+      Data: 0|Tuleeeeee.Data.GemMap[,], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 16
+    - Name: ranks
+      Entry: 1
+      Data: 4|4
+    - Name: 
+      Entry: 7
+      Data: 1|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 1
+    - Name: Group
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 2
+    - Name: Group
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 2
+    - Name: Group
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 2
+    - Name: Group
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 1
+    - Name: Group
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 1
+    - Name: Group
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 1
+    - Name: Group
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 0
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 0
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 5
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 5
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 0
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 0
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 14|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 5
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 15|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 5
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 16|Tuleeeeee.Data.GemMap, Assembly-CSharp
+    - Name: gemType
+      Entry: 3
+      Data: 0
+    - Name: Group
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: gemLimits
+      Entry: 7
+      Data: 17|System.Collections.Generic.Dictionary`2[[Tuleeeeee.Enum.GemType, Assembly-CSharp],[System.Int32,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 18|System.Collections.Generic.EnumEqualityComparer`1[[Tuleeeeee.Enum.GemType,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: gemSize
+      Entry: 7
+      Data: 19|System.Collections.Generic.Dictionary`2[[Tuleeeeee.Enum.GemType, Assembly-CSharp],[Tuleeeeee.Data.LevelData+GemSize,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 18
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: Tuleeeeee.Data.LevelData+GemSize, Assembly-CSharp
+    - Name: width
+      Entry: 3
+      Data: 1
+    - Name: height
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: Tuleeeeee.Data.LevelData+GemSize, Assembly-CSharp
+    - Name: width
+      Entry: 3
+      Data: 1
+    - Name: height
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: Tuleeeeee.Data.LevelData+GemSize, Assembly-CSharp
+    - Name: width
+      Entry: 3
+      Data: 2
+    - Name: height
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  Level: 1
+  Rows: 4
+  Columns: 4
+  CrushCount: 10
+  tilePrefab: {fileID: 2951852300273456439, guid: d72a23fb649d4004bb3d1dc419553d81, type: 3}
+  gemPrefab:
+  - {fileID: 2272856525754649366, guid: 5ac6ee4504fd3334895d19baeb7cb5a4, type: 3}
+  - {fileID: 6756732667232527117, guid: 4c2e7c99ca2b5ce41843552c151579a4, type: 3}
+  - {fileID: 2589421468042686161, guid: c0ae521901144a04baced1d162f206ec, type: 3}
+  gemMaps:
+  - gemType: 5
+    Group: 0
+  - gemType: 2
+    Group: 1
+  - gemType: 1
+    Group: 2
+  - gemType: 1
+    Group: 3
